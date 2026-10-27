@@ -171,4 +171,4 @@ Por ser um projeto de estudo, algumas coisas ainda são simples:
 
 ---
 
-Feito por **[seu nome]** durante o curso de Full Stack.
+Feito por Kelson Ranziel durante o curso de Full Stack.
