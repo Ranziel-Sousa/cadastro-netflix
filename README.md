@@ -7,9 +7,9 @@ Projeto de estudo do meu curso de Full Stack. É uma versão simples da tela "Qu
 Foi feito com HTML, CSS e JavaScript puro, sem frameworks. Os dados ficam guardados no `localStorage` do navegador, então não precisa de servidor nem de banco de dados.
 
 
-[Index](img/tela-index.png) 
-[Cadastro](img/tela-cadastro.png)
-![Demonstração](img/gravacao-tela.mp4) 
+[Index](imagem/tela-index.png) 
+[Cadastro](imagem/tela-cadastro.png)
+![Demonstração](imagem/gravacao-tela.mp4) 
 
 ## Como funciona
 
