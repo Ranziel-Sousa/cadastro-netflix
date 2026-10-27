@@ -7,8 +7,15 @@ Projeto de estudo do meu curso de Full Stack. É uma versão simples da tela "Qu
 Foi feito com HTML, CSS e JavaScript puro, sem frameworks. Os dados ficam guardados no `localStorage` do navegador, então não precisa de servidor nem de banco de dados.
 
 
-![Tela inicial](img/tela-index.png)
-![Tela de cadastro](img/tela-cadastro.png)
+![Tela Inicial](<img width="1920" height="1032" alt="tela-index" src="https://github.com/user-attachments/assets/a9b8acbc-7804-4225-9326-a343bccb616d" />)
+![Tela de Cadastro](<img width="1920" height="1032" alt="tela-cadastro" src="https://github.com/user-attachments/assets/846545a9-f361-45f5-850d-27d4ee92f035" />)
+    
+
+[Video de Demonstração](https://github.com/user-attachments/assets/7ac2a8f6-cc30-4cc7-9613-516e342747d6)
+
+
+
+
 
 ## Como funciona
 
